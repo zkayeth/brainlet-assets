@@ -7,7 +7,7 @@
   {
     "name": "test",
     "type": "test",
-    "assets": ["1"]
+    "assets": ["test"]
   },
   {
     "name": "Drools",
