@@ -5,6 +5,11 @@
     "assets": ["1", "2", "3", "4", "5", "6", "7"]
   },
   {
+    "name": "test",
+    "type": "test",
+    "assets": ["1"]
+  },
+  {
     "name": "Drools",
     "type": "drools_snout",
     "assets": ["1", "2", "3", "4", "5", "6", "7", "8"]
