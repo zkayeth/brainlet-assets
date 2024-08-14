@@ -1,5 +1,10 @@
 [
   {
+    "name": "Accessories",
+    "type": "accessories",
+    "assets": ["1", "2", "3", "4", "5", "6", "7"]
+  },
+  {
     "name": "Drools",
     "type": "drools_snout",
     "assets": ["1", "2", "3", "4", "5", "6", "7", "8"]
