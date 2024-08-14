@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Accessories",
+    "type": "accessories",
+    "assets": ["1", "2", "3", "4", "5", "6", "7"]
+  },
+  {
+    "name": "Drools",
+    "type": "drools_snout",
+    "assets": ["1", "2", "3", "4", "5", "6", "7", "8"]
+  },
+  {
+    "name": "Eyebrows",
+    "type": "eyebrows",
+    "assets": ["1", "2", "3", "4", "5"]
+  },
+  {
+    "name": "Eye Pairs",
+    "type": "eye_pairs",
+    "assets": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11"]
+  },
+  {
+    "name": "Left eyes",
+    "type": "left_eye",
+    "assets": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10"]
+  },
+  {
+    "name": "Right eyes",
+    "type": "right_eye",
+    "assets": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10"]
+  },
+  {
+    "name": "Full faces",
+    "type": "full_faces",
+    "assets": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11"]
+  },
+  {
+    "name": "Mouths",
+    "type": "mouths",
+    "assets": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12"]
+  },
+  {
+    "name": "Noses",
+    "type": "noses",
+    "assets": ["1", "2", "3", "4", "5", "6", "7", "8"]
+  }
+]
